@@ -1,2 +1,1 @@
-# project1
-CS Final Project 1
+For project 1 for my CS Final, I have chosen to improve upon lab 9. This version includes docstrings for all methods and a GUI built with Tkinter, and addresses the critical feedback given to my original sbmission for lab 9.
